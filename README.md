@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Husein2022
+- 👋 Hi, I’m @Husein
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, ML
 - 💞️ I’m looking to collaborate on data analysis project
