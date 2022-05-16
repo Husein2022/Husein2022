@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, ML
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 You can reach me at husein.basta@gmail.com
+- [![trophy](https://github-profile-trophy.vercel.app/husein-bastawalaryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Husein2022/Husein2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
