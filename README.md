@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Husein
-- 👀 I’m interested in Data Analysis and Data Engineering
+- 👀 I’m interested in SQL, Data Analysis and Data Engineering
 - 🌱 I’m currently learning Python, Salesforce
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 You can reach me at husein.basta@gmail.com
